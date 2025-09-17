@@ -1,5 +1,5 @@
 {
-	"version": "1.1.0",
+	"version": "1.1",
 	"apkUrl": "https://yourserver.com/app.apk",
 	"features": [
 		"Bug Fixes",
