@@ -2,8 +2,7 @@
 	"version": "1.1.0",
 	"apkUrl": "https://yourserver.com/app.apk",
 	"features": [
-		"Added dark mode support",
-		"Improved performance",
-		"New note-sharing feature"
+		"Bug Fixes",
+		"Performance Improvements"
 	]
 }
